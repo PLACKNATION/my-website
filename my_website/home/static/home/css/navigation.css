@@ -1,0 +1,9 @@
+#title_nav{
+    border: 2px white solid;
+    background: black;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    min-height: 7em;
+    padding-top: 1em;
+}
